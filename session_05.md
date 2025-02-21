@@ -1,5 +1,6 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
+new gen technology
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 This is my note about AI history
